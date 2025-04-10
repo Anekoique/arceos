@@ -1,0 +1,6 @@
+[submodule "extern/allocator"]
+	path = extern/allocator
+	url = https://github.com/arceos-org/allocator.git
+[submodule "extern/crate_interface"]
+	path = extern/crate_interface
+	url = https://github.com/arceos-org/crate_interface.git
